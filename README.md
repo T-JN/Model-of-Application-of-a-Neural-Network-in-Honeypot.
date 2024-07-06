@@ -8,6 +8,6 @@ Software development was carried out in IDE CLion (https://www.jetbrains.com/hel
 Malware Bazaar Database.  https://bazaar.abuse.ch/browse/
 Malware database.    http://vxvault.net/ViriList.php
 Malware repository.  https://avcaesar.malware.lu/
-Viruses repository.  https://virusshare.com/ .
+Viruses repository.  https://virusshare.com/ 
 
 
